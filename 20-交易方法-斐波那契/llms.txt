@@ -1,0 +1,13 @@
+# 交易方法-斐波那契
+
+> 斐波那契回撤、扩展、时间周期策略
+
+
+本分类包含 3 个量化交易策略文档。
+每个策略均包含：策略原理、源代码实现、优化方向、风险分析。
+
+## 策略列表
+
+- [基于支点黄金分割线的高买低卖策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/20-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91/001-%E5%9F%BA%E4%BA%8E%E6%94%AF%E7%82%B9%E9%BB%84%E9%87%91%E5%88%86%E5%89%B2%E7%BA%BF%E7%9A%84%E9%AB%98%E4%B9%B0%E4%BD%8E%E5%8D%96%E7%AD%96%E7%95%A5-pivot-point-golden-ratio-buy-high-sell-low-strategy.md): 基于支点黄金分割线的高买低卖策略
+- [斐波那契回撤交易策略脚本](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/20-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91/002-%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E5%9B%9E%E6%92%A4%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5%E8%84%9A%E6%9C%AC-strategy.md): 斐波那契回撤交易策略脚本
+- [斐波那契数列策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/20-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91/003-%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97%E7%AD%96%E7%95%A5-strategy.md): 斐波那契数列策略

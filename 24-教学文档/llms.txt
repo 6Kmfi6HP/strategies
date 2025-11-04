@@ -1,0 +1,33 @@
+# 教学文档
+
+> 量化入门、策略开发教程
+
+
+本分类包含 23 个量化交易策略文档。
+每个策略均包含：策略原理、源代码实现、优化方向、风险分析。
+
+## 策略列表
+
+- [期货教学](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/001-%E6%9C%9F%E8%B4%A7%E6%95%99%E5%AD%A6-dual-thrust-okex.md): 期货教学
+- [部分交易封装示例](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/002-%E9%83%A8%E5%88%86%E4%BA%A4%E6%98%93%E5%B0%81%E8%A3%85%E7%A4%BA%E4%BE%8B-okx.md): 部分交易封装示例
+- [版单平台均衡策略教学](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/003-%E7%89%88%E5%8D%95%E5%B9%B3%E5%8F%B0%E5%9D%87%E8%A1%A1%E7%AD%96%E7%95%A5%E6%95%99%E5%AD%A6-python.md): 版单平台均衡策略教学
+- [版多品种追涨杀跌策略教学](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/004-%E7%89%88%E5%A4%9A%E5%93%81%E7%A7%8D%E8%BF%BD%E6%B6%A8%E6%9D%80%E8%B7%8C%E7%AD%96%E7%95%A5%E6%95%99%E5%AD%A6-python.md): 版多品种追涨杀跌策略教学
+- [版追涨杀跌策略教学](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/005-%E7%89%88%E8%BF%BD%E6%B6%A8%E6%9D%80%E8%B7%8C%E7%AD%96%E7%95%A5%E6%95%99%E5%AD%A6-python.md): 版追涨杀跌策略教学
+- [版追涨杀跌策略教学币安永续合约](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/006-%E7%89%88%E8%BF%BD%E6%B6%A8%E6%9D%80%E8%B7%8C%E7%AD%96%E7%95%A5%E6%95%99%E5%AD%A6%E5%B8%81%E5%AE%89%E6%B0%B8%E7%BB%AD%E5%90%88%E7%BA%A6-python-usdt.md): 版追涨杀跌策略教学币安永续合约
+- [教学](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/007-%E6%95%99%E5%AD%A6-recordscollecter.md): 教学
+- [语言教学策略脚本](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/008-%E8%AF%AD%E8%A8%80%E6%95%99%E5%AD%A6%E7%AD%96%E7%95%A5%E8%84%9A%E6%9C%AC-sma-pine.md): 语言教学策略脚本
+- [策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/009-%E7%AD%96%E7%95%A5-trading-the-equity-curve-position-sizing-example.md): 策略
+- [信号执行策略教学](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/010-%E4%BF%A1%E5%8F%B7%E6%89%A7%E8%A1%8C%E7%AD%96%E7%95%A5%E6%95%99%E5%AD%A6-tradingviewwebhook.md): 信号执行策略教学
+- [信号执行策略教学](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/011-%E4%BF%A1%E5%8F%B7%E6%89%A7%E8%A1%8C%E7%AD%96%E7%95%A5%E6%95%99%E5%AD%A6-tradingview-21.md): 信号执行策略教学
+- [信号执行策略教学](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/012-%E4%BF%A1%E5%8F%B7%E6%89%A7%E8%A1%8C%E7%AD%96%E7%95%A5%E6%95%99%E5%AD%A6-tradingview-2-copy.md): 信号执行策略教学
+- [部分交易封装示例](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/013-%E9%83%A8%E5%88%86%E4%BA%A4%E6%98%93%E5%B0%81%E8%A3%85%E7%A4%BA%E4%BE%8B-binance.md): 部分交易封装示例
+- [教学策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/014-%E6%95%99%E5%AD%A6%E7%AD%96%E7%95%A5-robotctrl.md): 教学策略
+- [可变图表示例](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/015-%E5%8F%AF%E5%8F%98%E5%9B%BE%E8%A1%A8%E7%A4%BA%E4%BE%8B-strategy.md): 可变图表示例
+- [基于趋势过滤的逐级加仓交易策略教学](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/016-%E5%9F%BA%E4%BA%8E%E8%B6%8B%E5%8A%BF%E8%BF%87%E6%BB%A4%E7%9A%84%E9%80%90%E7%BA%A7%E5%8A%A0%E4%BB%93%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5%E6%95%99%E5%AD%A6-ema.md): 基于趋势过滤的逐级加仓交易策略教学 - 趋势跟踪
+- [平衡挂单策略教学](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/017-%E5%B9%B3%E8%A1%A1%E6%8C%82%E5%8D%95%E7%AD%96%E7%95%A5%E6%95%99%E5%AD%A6-strategy.md): 平衡挂单策略教学
+- [指数均衡策略教学](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/018-%E6%8C%87%E6%95%B0%E5%9D%87%E8%A1%A1%E7%AD%96%E7%95%A5%E6%95%99%E5%AD%A6-.md): 指数均衡策略教学
+- [教学策略策略麦语言移植](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/019-%E6%95%99%E5%AD%A6%E7%AD%96%E7%95%A5%E7%AD%96%E7%95%A5%E9%BA%A6%E8%AF%AD%E8%A8%80%E7%A7%BB%E6%A4%8D-tci.md): 教学策略策略麦语言移植
+- [数字货币期货双均线拐点策略教学](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/020-%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E6%9C%9F%E8%B4%A7%E5%8F%8C%E5%9D%87%E7%BA%BF%E6%8B%90%E7%82%B9%E7%AD%96%E7%95%A5%E6%95%99%E5%AD%A6-strategy.md): 数字货币期货双均线拐点策略教学
+- [数字货币现货多品种双均线策略教学](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/021-%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E7%8E%B0%E8%B4%A7%E5%A4%9A%E5%93%81%E7%A7%8D%E5%8F%8C%E5%9D%87%E7%BA%BF%E7%AD%96%E7%95%A5%E6%95%99%E5%AD%A6-strategy.md): 数字货币现货多品种双均线策略教学
+- [数字货币现货打新抢币策略教学](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/022-%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E7%8E%B0%E8%B4%A7%E6%89%93%E6%96%B0%E6%8A%A2%E5%B8%81%E7%AD%96%E7%95%A5%E6%95%99%E5%AD%A6-strategy.md): 数字货币现货打新抢币策略教学
+- [闪崩机器人教学](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/023-%E9%97%AA%E5%B4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%99%E5%AD%A6-.md): 闪崩机器人教学

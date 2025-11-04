@@ -1,0 +1,24 @@
+# 资产类型-黄金
+
+> 黄金专项策略（避险属性、美元负相关）
+
+
+本分类包含 14 个量化交易策略文档。
+每个策略均包含：策略原理、源代码实现、优化方向、风险分析。
+
+## 策略列表
+
+- [策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/22-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E9%BB%84%E9%87%91/001-%E7%AD%96%E7%95%A5-paul-the-gambler-l-vy-gold-edition.md): 策略
+- [交易黄金时段策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/22-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E9%BB%84%E9%87%91/002-%E4%BA%A4%E6%98%93%E9%BB%84%E9%87%91%E6%97%B6%E6%AE%B5%E7%AD%96%E7%95%A5-golden-trade-hour-strategy.md): 交易黄金时段策略
+- [动态枢轴点结合黄金交叉策略优化系统](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/22-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E9%BB%84%E9%87%91/003-%E5%8A%A8%E6%80%81%E6%9E%A2%E8%BD%B4%E7%82%B9%E7%BB%93%E5%90%88%E9%BB%84%E9%87%91%E4%BA%A4%E5%8F%89%E7%AD%96%E7%95%A5%E4%BC%98%E5%8C%96%E7%B3%BB%E7%BB%9F-dynamic-pivot-points-with-golden-cross-optimization-system.md): 动态枢轴点结合黄金交叉策略优化系统 - 交叉信号
+- [基于价格行动的黄金交易算法](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/22-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E9%BB%84%E9%87%91/004-%E5%9F%BA%E4%BA%8E%E4%BB%B7%E6%A0%BC%E8%A1%8C%E5%8A%A8%E7%9A%84%E9%BB%84%E9%87%91%E4%BA%A4%E6%98%93%E7%AE%97%E6%B3%95-gold-price-action-trading-algorithm.md): 基于价格行动的黄金交易算法
+- [基于动量和标准差的黄金交易策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/22-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E9%BB%84%E9%87%91/005-%E5%9F%BA%E4%BA%8E%E5%8A%A8%E9%87%8F%E5%92%8C%E6%A0%87%E5%87%86%E5%B7%AE%E7%9A%84%E9%BB%84%E9%87%91%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5-all-about-momentum-trading-strategy-with-stop-loss-for-gold.md): 基于动量和标准差的黄金交易策略
+- [基于金叉死叉交易策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/22-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E9%BB%84%E9%87%91/006-%E5%9F%BA%E4%BA%8E%E9%87%91%E5%8F%89%E6%AD%BB%E5%8F%89%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5-golden-cross-dead-cross-trading-strategy.md): 基于金叉死叉交易策略 - 交叉信号
+- [基于金本位量化交易策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/22-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E9%BB%84%E9%87%91/007-%E5%9F%BA%E4%BA%8E%E9%87%91%E6%9C%AC%E4%BD%8D%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5-gold-standard-quantitative-trading-strategy.md): 基于金本位量化交易策略
+- [量化黄金交叉策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/22-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E9%BB%84%E9%87%91/008-%E9%87%8F%E5%8C%96%E9%BB%84%E9%87%91%E4%BA%A4%E5%8F%89%E7%AD%96%E7%95%A5-quantitative-golden-cross-strategy.md): 量化黄金交叉策略 - 交叉信号
+- [金叉死叉趋势追踪策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/22-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E9%BB%84%E9%87%91/009-%E9%87%91%E5%8F%89%E6%AD%BB%E5%8F%89%E8%B6%8B%E5%8A%BF%E8%BF%BD%E8%B8%AA%E7%AD%96%E7%95%A5-golden-dead-cross-trend-tracking-strategy.md): 金叉死叉趋势追踪策略 - 交叉信号, 趋势跟踪
+- [金叉死叉量化交易策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/22-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E9%BB%84%E9%87%91/010-%E9%87%91%E5%8F%89%E6%AD%BB%E5%8F%89%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5-gold-cross-dead-cross-quantitative-trading-strategy.md): 金叉死叉量化交易策略 - 交叉信号
+- [黄金交叉交易策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/22-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E9%BB%84%E9%87%91/011-%E9%BB%84%E9%87%91%E4%BA%A4%E5%8F%89%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5-trend-trading-strategy-based-on-golden-cross.md): 黄金交叉交易策略 - 交叉信号, 趋势跟踪
+- [黄金交叉死叉策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/22-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E9%BB%84%E9%87%91/012-%E9%BB%84%E9%87%91%E4%BA%A4%E5%8F%89%E6%AD%BB%E5%8F%89%E7%AD%96%E7%95%A5-golden-cross-death-cross-strategy.md): 黄金交叉死叉策略 - 交叉信号
+- [黄金交叉策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/22-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E9%BB%84%E9%87%91/013-%E9%BB%84%E9%87%91%E4%BA%A4%E5%8F%89%E7%AD%96%E7%95%A5-golden-cross-strategy.md): 黄金交叉策略 - 交叉信号
+- [黄金交叉追涨杀跌策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/22-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E9%BB%84%E9%87%91/014-%E9%BB%84%E9%87%91%E4%BA%A4%E5%8F%89%E8%BF%BD%E6%B6%A8%E6%9D%80%E8%B7%8C%E7%AD%96%E7%95%A5-golden-cross-trend-following-strategy.md): 黄金交叉追涨杀跌策略 - 交叉信号, 趋势跟踪

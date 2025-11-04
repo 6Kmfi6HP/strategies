@@ -1,0 +1,61 @@
+# 📈 量化交易策略库
+
+> 综合性量化交易策略文档库，涵盖 5,807 个策略，包括技术指标、交易方法、资产类型等多个维度
+
+本策略库包含：
+
+- **技术栈**：PineScript、JavaScript、Python、Pine Script v5
+- **26个专业分类**：技术指标、交易方法、资产类型、教学文档等
+- **完整文档**：每个策略包含原理、源代码、优化方向、风险分析
+- **适用对象**：量化交易者、策略开发者、金融研究人员、算法交易学习者
+
+## 技术指标类（11个分类，4,285个策略）
+
+专注于基于技术指标的量化策略，包括趋势类、震荡类、成交量类、综合类指标。
+
+- [技术指标-移动平均线](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/01-%E6%8A%80%E6%9C%AF%E6%8C%87%E6%A0%87-%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%9D%87%E7%BA%BF/llms.txt): EMA、SMA、VWMA、Hull MA、ALMA、KAMA等移动平均线策略 (2453个策略)
+- [技术指标-MACD](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/02-%E6%8A%80%E6%9C%AF%E6%8C%87%E6%A0%87-MACD/llms.txt): MACD、信号线、柱状图指标策略 (11个策略)
+- [技术指标-RSI](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/03-%E6%8A%80%E6%9C%AF%E6%8C%87%E6%A0%87-RSI/llms.txt): 相对强弱指标、超买超卖策略 (494个策略)
+- [技术指标-ADX](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/04-%E6%8A%80%E6%9C%AF%E6%8C%87%E6%A0%87-ADX/llms.txt): 平均趋向指标、趋势强度策略 (46个策略)
+- [技术指标-布林带](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/05-%E6%8A%80%E6%9C%AF%E6%8C%87%E6%A0%87-%E5%B8%83%E6%9E%97%E5%B8%A6/llms.txt): 布林通道、波动率策略 (198个策略)
+- [技术指标-ATR](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/06-%E6%8A%80%E6%9C%AF%E6%8C%87%E6%A0%87-ATR/llms.txt): 真实波幅、止损位策略 (96个策略)
+- [技术指标-CCI](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/07-%E6%8A%80%E6%9C%AF%E6%8C%87%E6%A0%87-CCI/llms.txt): 顺势指标、超买超卖策略 (55个策略)
+- [技术指标-KDJ](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/08-%E6%8A%80%E6%9C%AF%E6%8C%87%E6%A0%87-KDJ/llms.txt): 随机指标、快慢线策略 (50个策略)
+- [技术指标-成交量](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/09-%E6%8A%80%E6%9C%AF%E6%8C%87%E6%A0%87-%E6%88%90%E4%BA%A4%E9%87%8F/llms.txt): VWAP、OBV、MFI、成交量加权策略 (91个策略)
+- [技术指标-趋势指标](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/10-%E6%8A%80%E6%9C%AF%E6%8C%87%E6%A0%87-%E8%B6%8B%E5%8A%BF%E6%8C%87%E6%A0%87/llms.txt): Supertrend、Ichimoku、Alligator趋势跟踪策略 (487个策略)
+- [技术指标-综合指标](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/11-%E6%8A%80%E6%9C%AF%E6%8C%87%E6%A0%87-%E7%BB%BC%E5%90%88%E6%8C%87%E6%A0%87/llms.txt): 多指标组合、综合信号策略 (304个策略)
+
+## 交易方法类（9个分类，727个策略）
+
+基于不同交易理念和执行方式的策略体系。
+
+- [交易方法-高频交易](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/12-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E9%AB%98%E9%A2%91%E4%BA%A4%E6%98%93/llms.txt): 短周期、高频开仓、套利策略 (51个策略)
+- [交易方法-网格交易](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/13-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E7%BD%91%E6%A0%BC%E4%BA%A4%E6%98%93/llms.txt): 等比网格、等差网格、动态网格策略 (51个策略)
+- [交易方法-套利](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/14-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%A5%97%E5%88%A9/llms.txt): 跨市场套利、统计套利、期现套利策略 (45个策略)
+- [交易方法-马丁格尔](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/15-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E9%A9%AC%E4%B8%81%E6%A0%BC%E5%B0%94/llms.txt): 倍投策略、反向马丁策略 (28个策略)
+- [交易方法-反转策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/16-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%8F%8D%E8%BD%AC%E7%AD%96%E7%95%A5/llms.txt): 均值回归、震荡反转策略 (169个策略)
+- [交易方法-突破策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/17-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E7%AA%81%E7%A0%B4%E7%AD%96%E7%95%A5/llms.txt): 价格突破、通道突破、形态突破策略 (294个策略)
+- [交易方法-定投策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/18-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5/llms.txt): 定期定额、动态定投策略 (18个策略)
+- [交易方法-形态识别](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/19-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%BD%A2%E6%80%81%E8%AF%86%E5%88%AB/llms.txt): K线形态、技术形态、价格模式识别策略 (68个策略)
+- [交易方法-斐波那契](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/20-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91/llms.txt): 斐波那契回撤、扩展、时间周期策略 (3个策略)
+
+## 资产类型类（3个分类，39个策略）
+
+针对特定资产特性优化的专项策略。
+
+- [资产类型-比特币](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/21-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E6%AF%94%E7%89%B9%E5%B8%81/llms.txt): 比特币专项策略（高波动、24小时交易、链上数据） (22个策略)
+- [资产类型-黄金](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/22-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E9%BB%84%E9%87%91/llms.txt): 黄金专项策略（避险属性、美元负相关） (14个策略)
+- [资产类型-以太坊](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/23-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E4%BB%A5%E5%A4%AA%E5%9D%8A/llms.txt): 以太坊专项策略（智能合约、Gas费、DeFi生态） (3个策略)
+
+## 其他类（3个分类，756个策略）
+
+教学资源、工具集成和综合性策略。
+
+- [教学文档](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/24-%E6%95%99%E5%AD%A6%E6%96%87%E6%A1%A3/llms.txt): 量化入门、策略开发教程 (23个策略)
+- [API工具](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/25-API%E5%B7%A5%E5%85%B7/llms.txt): 交易所API、数据接口、工具库 (116个策略)
+- [其他策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/26-%E5%85%B6%E4%BB%96%E7%AD%96%E7%95%A5/llms.txt): 混合策略、实验性策略 (617个策略)
+
+## Optional
+
+- [完整README](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/README.md): 详细的使用说明、统计信息和贡献指南
+- [分类说明文档](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/%E5%88%86%E7%B1%BB%E8%AF%B4%E6%98%8E.md): 完整的分类体系和分类原则说明

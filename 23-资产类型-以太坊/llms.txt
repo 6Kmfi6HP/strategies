@@ -1,0 +1,13 @@
+# 资产类型-以太坊
+
+> 以太坊专项策略（智能合约、Gas费、DeFi生态）
+
+
+本分类包含 3 个量化交易策略文档。
+每个策略均包含：策略原理、源代码实现、优化方向、风险分析。
+
+## 策略列表
+
+- [策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/23-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E4%BB%A5%E5%A4%AA%E5%9D%8A/001-%E7%AD%96%E7%95%A5-ethusdtperp-bot-30min.md): 策略
+- [策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/23-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E4%BB%A5%E5%A4%AA%E5%9D%8A/002-%E7%AD%96%E7%95%A5-etheriooom-30min.md): 策略
+- [基于极值法的统计波动率回测策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/23-%E8%B5%84%E4%BA%A7%E7%B1%BB%E5%9E%8B-%E4%BB%A5%E5%A4%AA%E5%9D%8A/003-%E5%9F%BA%E4%BA%8E%E6%9E%81%E5%80%BC%E6%B3%95%E7%9A%84%E7%BB%9F%E8%AE%A1%E6%B3%A2%E5%8A%A8%E7%8E%87%E5%9B%9E%E6%B5%8B%E7%AD%96%E7%95%A5-statistical-volatility-backtest-strategy-based-on-extreme-value-method.md): 基于极值法的统计波动率回测策略

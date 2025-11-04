@@ -1,0 +1,28 @@
+# 交易方法-定投策略
+
+> 定期定额、动态定投策略
+
+
+本分类包含 18 个量化交易策略文档。
+每个策略均包含：策略原理、源代码实现、优化方向、风险分析。
+
+## 策略列表
+
+- [策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/18-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5/001-%E7%AD%96%E7%95%A5-dca-dca-bot-strategy.md): 策略
+- [动量与波动率策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/18-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5/002-%E5%8A%A8%E9%87%8F%E4%B8%8E%E6%B3%A2%E5%8A%A8%E7%8E%87%E7%AD%96%E7%95%A5-flawless-victory-dca-flawless-victory-dca-momentum-and-volatility-strategy.md): 动量与波动率策略
+- [价值平均定投策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/18-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5/003-%E4%BB%B7%E5%80%BC%E5%B9%B3%E5%9D%87%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5-my-1.md): 价值平均定投策略
+- [定投策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/18-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5/004-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5-ahr999.md): 定投策略
+- [低风险趋势交易策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/18-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5/005-%E4%BD%8E%E9%A3%8E%E9%99%A9%E8%B6%8B%E5%8A%BF%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5-dca-low-risk-dca-trend-trading-strategy.md): 低风险趋势交易策略 - 趋势跟踪
+- [动态平均成本定投复利策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/18-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5/006-%E5%8A%A8%E6%80%81%E5%B9%B3%E5%9D%87%E6%88%90%E6%9C%AC%E5%AE%9A%E6%8A%95%E5%A4%8D%E5%88%A9%E7%AD%96%E7%95%A5-dynamic-average-cost-dollar-cost-averaging-compound-strategy.md): 动态平均成本定投复利策略
+- [基于动态的加密货币量化交易策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/18-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5/007-%E5%9F%BA%E4%BA%8E%E5%8A%A8%E6%80%81%E7%9A%84%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5-dca-dynamic-dca-based-cryptocurrency-quantitative-trading-strategy.md): 基于动态的加密货币量化交易策略
+- [定投趋势追踪策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/18-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5/008-%E5%AE%9A%E6%8A%95%E8%B6%8B%E5%8A%BF%E8%BF%BD%E8%B8%AA%E7%AD%96%E7%95%A5-golden-golden-trend-tracking-strategy-based-on-periodic-investment.md): 定投趋势追踪策略 - 趋势跟踪
+- [定投新手入门每周定期定额](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/18-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5/009-%E5%AE%9A%E6%8A%95%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8%E6%AF%8F%E5%91%A8%E5%AE%9A%E6%9C%9F%E5%AE%9A%E9%A2%9D-100usdt-100usdt-invested-every-week-regular-fixed-investment.md): 定投新手入门每周定期定额
+- [定投新手入门每周左右定期不定额](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/18-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5/010-%E5%AE%9A%E6%8A%95%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8%E6%AF%8F%E5%91%A8%E5%B7%A6%E5%8F%B3%E5%AE%9A%E6%9C%9F%E4%B8%8D%E5%AE%9A%E9%A2%9D-100usdt-100usdt-invested-every-week-regular-variable-investment.md): 定投新手入门每周左右定期不定额
+- [定投止盈脚本](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/18-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5/011-%E5%AE%9A%E6%8A%95%E6%AD%A2%E7%9B%88%E8%84%9A%E6%9C%AC-strategy.md): 定投止盈脚本
+- [定投策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/18-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5/012-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5-strategy.md): 定投策略
+- [定投策略带止盈](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/18-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5/013-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5%E5%B8%A6%E6%AD%A2%E7%9B%88-strategy.md): 定投策略带止盈
+- [带滑点止损的定投策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/18-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5/014-%E5%B8%A6%E6%BB%91%E7%82%B9%E6%AD%A2%E6%8D%9F%E7%9A%84%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5-dca-dca-strategy-with-trailing-take-profit.md): 带滑点止损的定投策略
+- [数字货币定投](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/18-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5/015-%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E5%AE%9A%E6%8A%95-strategy.md): 数字货币定投
+- [智能波动跟踪型策略与双轨止损系统](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/18-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5/016-%E6%99%BA%E8%83%BD%E6%B3%A2%E5%8A%A8%E8%B7%9F%E8%B8%AA%E5%9E%8B%E7%AD%96%E7%95%A5%E4%B8%8E%E5%8F%8C%E8%BD%A8%E6%AD%A2%E6%8D%9F%E7%B3%BB%E7%BB%9F-dca-intelligent-volatility-responsive-dca-strategy-with-dual-trailing-stop-system.md): 智能波动跟踪型策略与双轨止损系统
+- [每日市价定投](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/18-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5/017-%E6%AF%8F%E6%97%A5%E5%B8%82%E4%BB%B7%E5%AE%9A%E6%8A%95-strategy.md): 每日市价定投
+- [渐进式元素加权量化交易策略](https://raw.githubusercontent.com/6Kmfi6HP/strategies/master/18-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95-%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5/018-%E6%B8%90%E8%BF%9B%E5%BC%8F%E5%85%83%E7%B4%A0%E5%8A%A0%E6%9D%83%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5-dca-quantized-gradual-weighted-dca-trading-strategy.md): 渐进式元素加权量化交易策略
