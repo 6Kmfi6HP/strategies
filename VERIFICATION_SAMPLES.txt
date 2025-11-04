@@ -1,0 +1,27 @@
+Rename Command Samples from Different Sections
+================================================================================
+
+Beginning (Files 001-010):
+git mv "10EMA双重交叉趋势追踪策略10EMA-Double-Cross-Trend-Tracking-Strategy.md" \
+      "001-双重交叉趋势追踪策略-10ema-10ema-double-cross-trend-tracking-strategy.md"
+
+git mv "3EMA.md" \
+      "010-EMA策略-3ema.md"
+
+Middle Section (Files 1000-1010):
+git mv "双移动平均线穿越与威廉姆斯指标组合策略Dual-Moving-Average-Crossover-and-Williams-Indicator-Combo-Strategy.md" "972-双移动平均线穿越与威廉姆斯指标组合策略-dual-moving-average-crossover-and-williams-indicator-combo.md"
+git mv "双移动平均线突破策略Dual-Moving-Average-Crossover-Strategy.md" "973-双移动平均线突破策略-dual-moving-average-crossover-strategy.md"
+git mv "双移动平均线趋势跟踪策略Dual-Moving-Average-Trend-Following-Strategy.md" "974-双移动平均线趋势跟踪策略-dual-moving-average-trend-following-strategy.md"
+git mv "双移动平均线趋势跟踪策略Dual-Moving-Average-Trend-Tracking-Strategy.md" "975-双移动平均线趋势跟踪策略-dual-moving-average-trend-tracking-strategy.md"
+
+Later Section (Files 2000-2010):
+git mv "威美均线策略WAMI-Strategy.md" "1942-威美均线策略-wami-strategy.md"
+git mv "季度EMA动态回撤交易系统-Quarterly-EMA-Pullback-Trading-System.md" "1943-季度动态回撤交易系统-ema-quarterly-ema-pullback-trading-system.md"
+git mv "季节范围均线RSI策略Seasonal-Range-Moving-Average-RSI-Strategy.md" "1944-季节范围均线策略-rsi-seasonal-range-moving-average-rsi-strategy.md"
+git mv "守金均线量化交易策略Trend-Following-Quant-Trading-Strategy-Based-on-Moving-Average.md" "1945-守金均线量化交易策略-trend-following-quant-trading-strategy-on-moving-average.md"
+
+End (Files 2450-2453):
+echo "Rename complete!"
+echo "Total: 2453 files processed"
+echo "==================================="
+echo ""

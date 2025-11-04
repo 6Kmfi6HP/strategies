@@ -1,0 +1,80 @@
+================================================================================
+TRADING METHOD GROUP B - QUICK START GUIDE
+================================================================================
+
+📊 SUMMARY
+----------
+Total Files:    552
+Directories:    5
+Status:         Ready to Execute
+
+📁 DIRECTORIES
+--------------
+16-反转策略 (Reversal)       169 files  30.6%
+17-突破策略 (Breakout)       294 files  53.3%
+18-定投策略 (DCA)             18 files   3.3%
+19-形态识别 (Pattern)         68 files  12.3%
+20-斐波那契 (Fibonacci)        3 files   0.5%
+
+📝 FILES GENERATED
+------------------
+✓ rename_group_b.sh           - Main rename script (552 commands)
+✓ RENAME_GROUP_B_README.md    - Full documentation
+✓ GROUP_B_COMPLETE_SUMMARY.md - Complete summary
+✓ validate_group_b.sh         - Validation script
+✓ QUICK_START_GROUP_B.txt     - This file
+
+🚀 QUICK EXECUTION (3 steps)
+-----------------------------
+1. cd "C:\Users\liang\GitHub\strategies"
+2. bash rename_group_b.sh
+3. bash validate_group_b.sh
+
+✅ VERIFY RESULTS
+-----------------
+# Check counts per directory:
+ls "C:\Users\liang\GitHub\strategies\16-交易方法-反转策略" | grep -E '^[0-9]{3}-' | wc -l  # 169
+ls "C:\Users\liang\GitHub\strategies\17-交易方法-突破策略" | grep -E '^[0-9]{3}-' | wc -l  # 294
+ls "C:\Users\liang\GitHub\strategies\18-交易方法-定投策略" | grep -E '^[0-9]{3}-' | wc -l  # 18
+ls "C:\Users\liang\GitHub\strategies\19-交易方法-形态识别" | grep -E '^[0-9]{3}-' | wc -l  # 68
+ls "C:\Users\liang\GitHub\strategies\20-交易方法-斐波那契" | grep -E '^[0-9]{3}-' | wc -l  # 3
+
+📋 NAMING FORMAT
+----------------
+Pattern: [序号]-[中文名]-[english-name].md
+Example: 001-动量突破策略-momentum-breakout-strategy.md
+
+Rules:
+  • 3-digit sequence per directory (001-999)
+  • Chinese name preserved
+  • English lowercase kebab-case
+  • .md extension
+
+🔧 TROUBLESHOOTING
+------------------
+Issue: "No such file or directory"
+Fix:   Check you're in correct directory
+
+Issue: "Permission denied"
+Fix:   Check file permissions, ensure not read-only
+
+Issue: Encoding errors with Chinese
+Fix:   Use UTF-8 encoding in terminal
+
+💾 GIT COMMIT
+-------------
+After successful execution:
+
+git status
+git add -A
+git commit -m "Rename group B: 552 files across 5 directories"
+
+📞 NEED HELP?
+-------------
+See full documentation:
+  • RENAME_GROUP_B_README.md
+  • GROUP_B_COMPLETE_SUMMARY.md
+
+================================================================================
+Generated: 2025-11-05 | Agent 6 | Status: READY ✅
+================================================================================
